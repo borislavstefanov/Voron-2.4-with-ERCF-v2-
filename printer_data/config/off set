@@ -1,0 +1,8 @@
+[probe]
+#*# z_offset = 2.225
+#*#
+#*# [stepper_z]
+#*# position_endstop = -0.611
+#*#
+The SAVE_CONFIG command will update the printer config file
+with the above and restart the printer.
